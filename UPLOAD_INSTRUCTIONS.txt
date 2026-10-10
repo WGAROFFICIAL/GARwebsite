@@ -1,0 +1,1 @@
+Upload the CONTENTS of this ZIP to the ROOT of your GitHub Pages repository. This restores the original division and main GFX asset files and keeps the working staff tabs. Keep any other files not in this ZIP. Commit changes, wait for deployment, and hard refresh.
